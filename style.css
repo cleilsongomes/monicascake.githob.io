@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#Logo {
+    border: 10px solid;
+    border-radius: 50%;
+    border-color: purple;
+    width: 800px;
+}
+
+header {
+    width: 100%;
+    text-align: left;
+    border: 5px solid;
+    border-color: purple; 
+    text-align: center;   
+}
+
+
+.Monica-Loja {
+    display: inline-block;
+    width: 40%;
+    float: left;
+    margin-inline: 60px;
+    border: 10px solid;
+    border-color: purple;
+    border-radius: 30%;    
+}
+
+p {
+    font-size: 50px;
+    margin-top: 5%;
+    margin-left: 14%;
+    margin-right: 17%;
+    color: green;
+    display: inline-block;
+    
+}
+
+h3{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    margin-top: 40%;
+    margin-bottom: 8%;
+}
+
+div img {
+    margin-top: 5%;
+    width: 500px;
+    height: 500px;
+    margin: 18px;
+    display: inline-block;
+    text-align: center;
+}
+
+.Fim {
+    font-size: 30px; 
+    color: purple;  
+    text-align: center; 
+    width: 100%;
+    border: 5px solid;
+}
+
+
